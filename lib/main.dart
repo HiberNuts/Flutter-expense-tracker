@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       theme: ThemeData(
         primarySwatch: Colors.red,
-        accentColor: Colors.amber,
+        accentColor: Colors.amberAccent
         fontFamily: 'OpenSans',
       ),
       home: MyHomePage(),
@@ -114,7 +114,7 @@ class _MyHomePageState extends State<MyHomePage> {
       floatingActionButtonLocation: FloatingActionButtonLocation.centerFloat,
       floatingActionButton: FloatingActionButton(
         child: const Icon(Icons.add),
-        onPressed: () => _startAddNewTransaction(context),
+        onPressed: () => _startAddNewTransaction(context ),
       ),
     );
   }
