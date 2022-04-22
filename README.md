@@ -1,16 +1,6 @@
-# expenso
+# Expense Tracker
 
-A new Flutter project.
+A Flutter project that tracks expnese 
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![HF8ENOp](https://user-images.githubusercontent.com/75308493/164724956-4338b6be-e90f-4174-a4c9-752c06c37bf8.jpg)
